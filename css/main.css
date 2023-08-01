@@ -1,0 +1,355 @@
+
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+}
+.oq{
+    width: 1200px;
+
+    background-color: white;
+    position: relative;
+
+}
+.button{
+    position: relative;
+    left: -80px;
+   top: -20px;
+
+}
+.flex{
+
+    top: -14px;
+    left: 0;
+    right: 0;
+    width: 1200px;
+    height: 60px;
+    background-color: #f1f0ee;
+}
+.logo-navbar{
+    width: 1200px;
+    height: 600px;
+ background-color: #f1f0ee;
+
+
+    background-size: 1200px;
+    position: relative;
+    right: 165px;
+
+}
+.logo{
+    position: relative;
+    left: 20px;
+}
+
+.kurs{
+    position: relative;
+    bottom: 20px;
+    left: 1000px;
+    color: black;
+    text-decoration: none;
+}
+.blog{
+  position: relative;
+    bottom: 20px;
+    left: 1000px;
+    margin-left: 25px;
+    color: black;
+}
+button{
+    width: 120px;
+    height: 30px;
+    border-radius: 12px;
+    border: 1px solid white;
+    position: relative;
+    bottom: 20px;
+    background-color: white;
+    left: 1000px;
+    margin-left: 25px;
+}
+button:hover{
+    border: 1px solid #ba8d5b;
+    animation-delay: 4s;
+    animation-timing-function: ease-in-out;
+
+}
+header{
+    background-color: #ba8d5b;
+}
+.mutaxasis{
+    color: #ba8d5b;
+}
+.yozuv1{
+    width: 1200px;
+
+    position: relative;
+
+    bottom: 20px;
+
+    right: -3px;
+    background-color:#f1f0ee ;
+}
+.text{
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 22px;
+    letter-spacing: -.02em;
+    margin: 0 0 70px;
+    color: #607987;
+    position: relative;
+    top: 10px;
+    left: 20px;
+
+}
+.kurslarni{
+    width: 180px;
+    height: 45px;
+    border-radius: 15px;
+    background-color: #ba8d5b;
+    color: white;
+    text-decoration: none;
+    position: relative;
+    top: -450px;
+   left: -10px;
+}
+.kurslarni:hover{
+    background-color: white;
+    color: black;
+    border: 1px solid #ba8d5b ;
+    animation-timing-function: ease;
+    animation-delay: 4s;
+}
+.bizning{
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: -.02em;
+     position: relative;
+   right: 60px;
+    color: #0f1826;
+
+}
+.text-block{
+    width:100%;
+
+    margin: 0 auto;
+    display: block;
+    position: relative;
+
+    left: 90px;
+    top: 120px;
+    background-color: white;
+
+
+}
+.bizning{
+    position: relative;
+
+}
+.item-block{
+    position: relative;
+    column-count: 2;
+
+}
+.matn p{
+    position: relative;
+    bottom: 20px;
+    color: gray;
+
+}
+.rasm1{
+    position: relative;
+    right: 60px;
+   top: 95px;
+
+}
+.yonalish{
+    width:100% ;
+    background-color: white;
+    position: relative;
+    top: 150px;
+}
+.zamon{
+    color: gray;
+    font-weight: bold;
+}
+.card-block{
+    background-color: #f1f0ee;
+}
+.smm{
+    width: 300px;
+    height: 100px;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+    float: left;
+}
+.dastur{
+    width: 300px;
+    height: 100px;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+    float: left;
+}
+.adobe{
+    width: 300px;
+    height: 100px;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+    position: relative;
+    left: 900px;
+    bottom: 100px;
+    float: left;
+}
+.net{
+    position: relative;
+    bottom: 100px;
+    width: 300px;
+    height: 100px;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+
+    float: left;
+}
+.social{
+    width: 300px;
+    height: 100px;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+    float: left;
+}
+.card1{
+    width: 260px;
+    height:80px ;
+    border: 1px solid black;
+    border-radius: 8px;
+    float: left;
+    position: relative;
+    text-align: center;
+
+}
+.net{
+    width: 300px;
+    height: 100px;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+    float: left;
+}
+.node{
+    width: 300px;
+    height: 100px;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+    float: left;
+    position: relative;
+    bottom: 100px;
+}
+.kompyuter{
+    width: 300px;
+    height: 100px;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+    float: left;
+    position: relative;
+    bottom: 100px;
+}
+.hbs{
+    width: 300px;
+    height: 100px;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+    position: relative;
+    left: 900px;
+    bottom: 200px;
+    float: left;
+
+}
+.img-p{
+    float: left;
+}
+.card-yordam{
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    border: 1px solid black;
+    position: relative;
+    left: 300px;
+    bottom: 200px;
+}
+.clear{
+    clear: both;
+}
+.card1:hover{
+   box-shadow:  10px 10px  10px cornsilk;
+    background-color: white;
+}
+.card2{
+    width: 260px;
+    height:80px ;
+    border: 1px solid black;
+    border-radius: 8px;
+    float: left;
+    margin-left: 25px;
+
+}
+.card2:hover{
+    box-shadow:  10px 10px  10px cornsilk;
+    background-color: white;
+
+}
+.clear{
+    clear: both;
+}
+.ssilka{
+    text-decoration: none;
+    color:  #0eb182;
+    font-size: 18px;
+    position: relative;
+    top: 50px;
+    right: 600px;
+}
+.barcha{
+    text-decoration: none;
+    color: #0eb182;
+    font-size: 18px;
+    position: relative;
+    top: 20px;
+}
+.ish{
+    width: 1200px;
+    height: 600px;
+    background-color: white;
+    margin-top: 50px;
+    position: relative;
+    top: 200px;
+
+}
+.bitiruv{
+    position: relative;
+   /* z-index: 3;*/
+    top: 200px;
+}
+.eng{
+   position: relative;
+    z-index: 3;
+    top: 230px;
+    font-weight: bold;
+    color: #607987;
+}
+.img{
+    width: 150px;
+    height: 100px;
+   margin-right: 30px;
+    background-color: white;
+    margin-top: 20px;
+    position: relative;
+    top: 300px;
+
+}
